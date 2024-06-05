@@ -15,6 +15,7 @@ fruta1 = Fruta("Maçã", 5.99, 120)
 fruta2 = Fruta("Banana", 3.49, 80)
 fruta3 = Fruta("Laranja", 4.25, 150)
 fruta4 = Fruta("Abacaxi", 6,80, 50)
+fruta5 = Fruta("Abacate", 9,50 70)
 
 # Exibindo as informações das frutas
 fruta1.exibir_informacoes()
